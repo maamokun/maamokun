@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://maamokun.cloud">
+  <a href="https://mikn.dev">
       <img src="https://cdn.discordapp.com/attachments/800206035532120068/973180102496104478/e3b52232-ee6c-4db3-af43-bea69eec26f0.png" alt="Twitterのバナー" width="450">
     </a>
  </div>
@@ -15,11 +15,16 @@ Discordのボット作成等でのんびりプログラミングしてる男で�
 
 ---
 
+# random shit ive worked on
+various [Discord Bots](https://bots.mikn.dev)
+
+---
+
 <div align="center">
   <a href="https://twitter.com/maamo_kun">
       <img src="https://i.imgur.com/dymuNOd.png" alt="Twitter" width="80">
   </a>
-  <a href="hello@maamokun.cloud" >
+  <a href="hello@mikn.dev" >
     <img src="https://i.imgur.com/3K0Z67T.png" alt="Mail" width="80">
   </a>
   
