@@ -30,7 +30,7 @@ My flagship Discord bot, [MikanBot](https://mikanbot.com)
   </a>
   
 </div>
-# cool stat thingies
+# cool stat thingies <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maamokun&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maamokun)](https://github.com/anuraghazra/github-readme-stats)
 
