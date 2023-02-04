@@ -16,7 +16,7 @@ Discordのボット作成等でのんびりプログラミングしてる男で�
 ---
 
 # random shit ive worked on
-various [Discord Bots](https://bots.mikn.dev)
+various [Discord Bots](https://bots.mikn.dev) <br>
 My flagship Discord bot, [MikanBot](https://mikanbot.com)
 
 ---
