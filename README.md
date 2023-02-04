@@ -17,6 +17,7 @@ Discordのボット作成等でのんびりプログラミングしてる男で�
 
 # random shit ive worked on
 various [Discord Bots](https://bots.mikn.dev)
+My flagship Discord bot, [MikanBot](https://mikanbot.com)
 
 ---
 
@@ -29,7 +30,7 @@ various [Discord Bots](https://bots.mikn.dev)
   </a>
   
 </div>
-
+# cool stat thingies
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maamokun&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maamokun)](https://github.com/anuraghazra/github-readme-stats)
 
