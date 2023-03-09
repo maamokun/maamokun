@@ -6,7 +6,7 @@
  
 # どうでもいい情報
 Discordのボット作成等でのんびりプログラミングしてる男です <br>
-高1の15歳だと思われます(保証はしません)
+高1の16歳だと思われます(保証はしません)
 
 ## 主な言語や使用ソフト
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
