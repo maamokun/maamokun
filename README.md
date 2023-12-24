@@ -6,7 +6,7 @@ I'm a random Japanese 16 year old that runs a tiny, one man development company,
 ![My Stuff](https://cdn.mikn.dev/branding/github/MyStuffBanner.png)
 These are some of the projects that I have worked on over these years. They may be of dubious usefulness, but I hope you may find somrthing you like!
 # Discord Bots
-- I would post them here, but they are not working at this time. I do work on some of my [Partner Bots](#partners), so check them out!
+- [XFixer](https://mikn.link/xfixer/) - A bot that automatically fixes embeds for Twitter links sent to Discord.
 # Websites
 - [MikanDev Link Shortener](https://shortener.mikn.dev/) - Shorten those long links with a variety of cute domains (mostly Genshin ones), for free!
 - [短縮.com (shorten dot com)](https://app.tanshuku.com/) - The **shortest** Japanese domain link shortener. Easy to use, free, and no ads!
